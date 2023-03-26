@@ -1,0 +1,86 @@
+.container {
+    border: 5px dotted;
+    border-radius: 10px;
+    margin: 100px;
+    border-collapse: collapse;
+    height: 470px;
+    width: 632px;
+    padding: 35px;
+    position: relative;
+    text-align: center;
+    background: linear-gradient(45deg, rgb(240, 98, 10), rgb(226, 153, 16), rgb(34, 181, 195), rgb(206, 167, 27));
+}
+
+.a {
+    text-align: center;
+    color: rgba(113, 22, 178, 0.755);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    top: -25px;
+}
+
+h2 {
+    color: rgba(62, 43, 204, 0.988);
+    position: relative;
+    top: -25px;
+}
+
+table,
+tr,
+td,
+th {
+    border: 2px solid rgb(177, 139, 139);
+    border-collapse: collapse;
+    border-radius: 2px;
+    height: 45px;
+    width: 700px;
+    background: linear-gradient(45deg, rgb(164, 164, 83), rgb(212, 21, 44, 44), rgb(132, 165, 188, 121));
+}
+
+table {
+    position: relative;
+    left: -35px;
+    top: -22px;
+}
+
+th,
+.box6 {
+    color: rgb(8, 245, 119);
+}
+
+.sub2,
+.box3 {
+    color: rgb(13, 172, 230);
+}
+
+.box1,
+.sub3 {
+    color: rgb(9, 227, 27);
+}
+
+.box2,
+.sub5 {
+    color: rgb(8, 252, 73);
+}
+
+.box4,
+.sub6 {
+    color: skyblue;
+}
+
+.box5,
+.sub7 {
+    color: aquamarine;
+}
+
+.lunch {
+    color: beige;
+}
+
+.Drawing {
+    color: rgb(243, 230, 232);
+}
+
+.holiday {
+    color: aqua;
+}
